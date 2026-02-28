@@ -1,4 +1,5 @@
 I'm testing conflict !!!
 
 Second change on the file
-Third change 
+Third change
+second test
